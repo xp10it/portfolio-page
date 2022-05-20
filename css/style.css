@@ -1140,7 +1140,7 @@ textarea.form-message {
 
 	.titlebar .page-title,
 	.titlebar .page-title span {
-		font-size: 70px;
+		font-size: 70px !important;
 	}
 
 	.titlebar {
