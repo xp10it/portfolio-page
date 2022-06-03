@@ -279,9 +279,9 @@ header {
 }
 
 .home .home-content .hero-title {
+        letter-spacing: -3px;
 	font-size: 140px;
 	font-weight: 900;
-	letter-spacing: -4px;
 	line-height: 125px;
 }
 
@@ -477,6 +477,7 @@ header {
 .cbp-item figure img,
 .work figure {
 	width: 100%;
+        transition: .3s all ease;
 }
 
 .cbp-l-loadMore-link {
