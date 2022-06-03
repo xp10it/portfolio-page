@@ -1105,6 +1105,10 @@ textarea.form-message {
 	outline: 0;
 }
 
+.fig img {
+        transition: .3s all ease;
+}
+
 /*------------------------ Responsive ------------------------*/
 
 @media (min-width: 768px) and (max-width: 1024px) {
